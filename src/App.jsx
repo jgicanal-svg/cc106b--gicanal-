@@ -17,10 +17,9 @@ function App() {
       <header style={{ textAlign: 'center', marginBottom: '24px' }}>
         <h1 style={{ fontSize: '2rem', margin: '0 0 8px 0', color: '#1a202c' }}>
           Hello, I'm Jhon Michael H. Gicanal 
-          BSIS 4-2
         </h1>
         <p style={{ margin: 0, color: '#4a5568', fontWeight: '500' }}>
-          BSIT Student | Web Development
+          BSIS Student
         </p>
       </header>
 
